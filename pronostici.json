@@ -1,0 +1,407 @@
+[
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 3.3,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 2.7,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 1.9,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1347818,
+        "home": "Shturmi",
+        "away": "Gardabani",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 2.1,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1356702,
+        "home": "Flora II",
+        "away": "N\u00f5mme United",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 2.1,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 2.2,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 3.4,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 2.2,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1347818,
+        "home": "Shturmi",
+        "away": "Gardabani",
+        "result": "X",
+        "gg_ng": "NG",
+        "goals": 1.6,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1356702,
+        "home": "Flora II",
+        "away": "N\u00f5mme United",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 3.2,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 2.5,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 2.0,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 3.4,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1347818,
+        "home": "Shturmi",
+        "away": "Gardabani",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 3.0,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1356702,
+        "home": "Flora II",
+        "away": "N\u00f5mme United",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 3.5,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 2.7,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "1",
+        "gg_ng": "NG",
+        "goals": 3.0,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 1.9,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1347818,
+        "home": "Shturmi",
+        "away": "Gardabani",
+        "result": "1",
+        "gg_ng": "NG",
+        "goals": 1.5,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1356702,
+        "home": "Flora II",
+        "away": "N\u00f5mme United",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 2.1,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 1.5,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 2.0,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 2.5,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1481779,
+        "home": "FAR Rabat",
+        "away": "FUS Rabat",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 2.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483827,
+        "home": "Flamengo U20",
+        "away": "Atl\u00e9tico Mineiro U20",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 3.4,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "1",
+        "gg_ng": "NG",
+        "goals": 2.3,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "X",
+        "gg_ng": "NG",
+        "goals": 2.7,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "X",
+        "gg_ng": "NG",
+        "goals": 3.0,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1471181,
+        "home": "Barra Mansa",
+        "away": "Goytacaz",
+        "result": "X",
+        "gg_ng": "NG",
+        "goals": 2.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1481779,
+        "home": "FAR Rabat",
+        "away": "FUS Rabat",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 2.1,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "X",
+        "gg_ng": "GG",
+        "goals": 2.5,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 2.2,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "1",
+        "gg_ng": "NG",
+        "goals": 1.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1471181,
+        "home": "Barra Mansa",
+        "away": "Goytacaz",
+        "result": "2",
+        "gg_ng": "NG",
+        "goals": 1.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1481779,
+        "home": "FAR Rabat",
+        "away": "FUS Rabat",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 2.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 1.7,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 3.2,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 1.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1471181,
+        "home": "Barra Mansa",
+        "away": "Goytacaz",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 1.9,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1481779,
+        "home": "FAR Rabat",
+        "away": "FUS Rabat",
+        "result": "X",
+        "gg_ng": "NG",
+        "goals": 2.6,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1482824,
+        "home": "Mount Pleasant Academy",
+        "away": "Defence Force",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 2.2,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483151,
+        "home": "C\u00e9leste",
+        "away": "Martin P\u00eacheur",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 1.6,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1483152,
+        "home": "Renaissance",
+        "away": "Etoile de Kivu",
+        "result": "1",
+        "gg_ng": "GG",
+        "goals": 1.8,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1471181,
+        "home": "Barra Mansa",
+        "away": "Goytacaz",
+        "result": "2",
+        "gg_ng": "GG",
+        "goals": 3.1,
+        "date": "2025-11-06"
+    },
+    {
+        "fixture_id": 1351353,
+        "home": "Fluminense",
+        "away": "Mirassol",
+        "result": "1",
+        "gg_ng": "NG",
+        "goals": 3.3,
+        "date": "2025-11-06"
+    }
+]
